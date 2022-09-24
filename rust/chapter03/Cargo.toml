@@ -1,0 +1,10 @@
+[package]
+name = "chapter03"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chapter01 = { path = "../chapter01" }
+chapter02 = { path = "../chapter02" }

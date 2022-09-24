@@ -12,3 +12,11 @@ version = "0.1.0"
 dependencies = [
  "chapter01",
 ]
+
+[[package]]
+name = "chapter03"
+version = "0.1.0"
+dependencies = [
+ "chapter01",
+ "chapter02",
+]
